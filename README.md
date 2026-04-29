@@ -1,10 +1,10 @@
 # Face-recognition-Attendance-System-Project
 Final Year Face recognition Attendance System Project 
 
-### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
 
 
-![FACE DETECTION](https://user-images.githubusercontent.com/28294942/166667109-d2024d8c-9aec-44ed-93f8-8f1d9b66098a.png)
+
+
 
 
 ### Abstract 
